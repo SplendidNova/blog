@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://splendidnova.github.io/blog'
 languageCode: 'zh-CN'
 title: '纸飞机上的梦'
 theme: 'massively'
