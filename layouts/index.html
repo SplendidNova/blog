@@ -13,7 +13,7 @@
 				<div id="main">
 					<article class="post">
 						<div style="display: flex; flex-wrap: wrap; gap: 2rem;align-items:center">
-							<div style="flex: 0 1 15em; margin: 0 auto;"><img src="{{ .Page.Params.image }}" alt="头像" style="width: 125%;border:3px solid white;border-radius:50%;box-shadow:1px 1px 0.5em rgba(0,0,0,0.3);"></div>
+							<div style="flex: 0 1 15em; margin: 0 auto;"><img src="{{ .Page.Params.image | relURL }}" alt="头像" style="width: 125%;border:3px solid white;border-radius:50%;box-shadow:1px 1px 0.5em rgba(0,0,0,0.3);"></div>
 							<div style="flex: 1 1 20em;">{{ .Content }}</div>
 						</div>
 					</article>

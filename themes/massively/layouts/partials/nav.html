@@ -3,10 +3,10 @@
 {{ $currentPage := .Page }}
 <nav id="nav">
     <ul class="links">
-        <li class="{{ if eq ($currentPage.RelPermalink) (`/`) }}active{{end}}"><a href='{{ "/" | relLangURL }}'>{{ .Site.Title }}</a></li>
+        <li class='{{ if eq $currentPage.RelPermalink (relLangURL "") }}active{{end}}'><a href='{{ "" | relLangURL }}'>{{ .Site.Title }}</a></li>
         {{- with $data.nav.items -}}
-            {{- range $i, $e := . -}}
-                <li class="{{ if eq ($currentPage.RelPermalink) (print .url `/`) }}active{{end}}"><a href='{{ .url | relLangURL }}'>{{- .title -}}</a></li>
+            {{- range . -}}
+                <li class='{{ if eq $currentPage.RelPermalink (relLangURL .url) }}active{{end}}'><a href='{{ .url | relLangURL }}'>{{- .title -}}</a></li>
             {{- end -}}
         {{- end -}}
         {{ with $data.contactinfo }}
