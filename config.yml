@@ -1,0 +1,10 @@
+baseURL: 'http://example.org/'
+languageCode: 'zh-CN'
+title: '纸飞机上的梦'
+theme: 'massively'
+DefaultContentLanguage: zh
+hasCJKLanguage: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
