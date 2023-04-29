@@ -149,10 +149,10 @@
 	hr {
 		border: 0;
 		border-bottom: solid 2px;
-		margin: (_size(element-margin) * 1.5) 0;
+		margin: 1rem 0;
 
 		&.major {
-			margin: (_size(element-margin) * 2.5) 0;
+			margin: 1rem 0;
 		}
 	}
 
