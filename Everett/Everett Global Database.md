@@ -57,12 +57,13 @@
 * ジョシュア·バートン·ハミルトン／Joshua Burton Hamilton：<ins>**约书亚·巴顿·汉密尔顿**</ins>，约书亚·B·汉密尔顿
 * ジョシュア·ハミルトン特異点／ハミルトンシンギュラリティー：约书亚·汉密尔顿奇点／<ins>**汉密尔顿奇点**</ins>
 * ハミルトン不確定性穿孔扉／Hamilton Uncertain Borderdiving Booster：<ins>**汉密尔顿不确定性穿孔门**</ins>，HUBB
-* ヤエグサ·カンナミ現実锚：
+* <ins>**ヤエグサ·カンナミ現実锚**</ins>：
 * コア·インテレクス：<ins>**Core Interex**</ins>
 * ドーヨー·アールアンドアイ：<ins>**Doyo R&I**</ins>
 * 「繭」：<ins>**「茧」**</ins>
 * モジュール：<ins>**健全性维持仪像**</ins>，仪像
 * スペースアンカーファスト：<ins>**Space Anchor 1st.**</ins>
 * ヒト生殖不全ウイルス：<ins>**人类生殖不全病毒**</ins>
-* エヴェレット：<ins>**艾弗雷特**</ins>
-* アストレア：<ins>**艾斯特雷亚**</ins>
+* エヴェレット／Everett：<ins>**艾弗雷特**</ins>
+* アストレア／Astrea：<ins>**艾斯特雷亚**</ins>
+* ヤマト／Yamato：<ins>**大和**</ins>
