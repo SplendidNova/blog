@@ -3,7 +3,7 @@ Just some records.
 ## 索引
 ### ユイザキカズヤ创作的漫画
 * [艾弗雷特总数据库](./Everett/Everett%20Global%20Database.md)
-* [艾弗雷特总数据库](./Everett/Girls%20Egg%20Dystopia.md)
+* [Girls Egg Dystopia](./Everett/Girls%20Egg%20Dystopia.md)
 
 ### タマユラミライ（玉响未来）
 * [タマユラミライ](./タマユラミライ/タマユラミライ.md)
