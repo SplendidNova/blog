@@ -2,7 +2,7 @@ Just some records.
 
 ## 索引
 ### 记录
-#### ユイザキカズヤ创作的漫画
+#### ユイザキカズヤ
 * [艾弗雷特总数据库](./records/Everett/EverettGlobalDatabase.md)
 * [Girls Egg Dystopia](./records/Everett/GirlsEggDystopia.md)
 
