@@ -12,7 +12,7 @@ Glory to Mankind.
 三周目A2通关  
 - [ ] chil[D]hood's end  
 三周目9S通关  
-- [ ] the [E]nd of yorha	
+- [ ] the [E]nd of yorha  
 三周目C、D结局后自动触发  
 - [ ] mission [F]ailed  
 二周目序章9S被Boss打倒后没在3分钟内通过自我骇进完成修复  
