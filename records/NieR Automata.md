@@ -6,9 +6,9 @@ Glory to Mankind.
 ### 所有结局
 - [x] flowers for m[A]chines  
 一周目通关  
-- [ ] or not to [B]e  
+- [x] or not to [B]e  
 二周目通关  
-- [ ] meaningless [C]ode  
+- [x] meaningless [C]ode  
 三周目A2通关  
 - [ ] chil[D]hood's end  
 三周目9S通关  
@@ -32,9 +32,9 @@ A线10-01，机械生命体异变并袭击反抗军营地时不打营地内的�
 C线14-03，接到帕斯卡需要帮助的任务后不前去支援，反而前往其他的地方  
 - [ ] [N]o Man's Village  
 A线04-04或05-01，第一次到达帕斯卡的村子时屠村  
-- [ ] just y[O]u and me  
+- [x] just y[O]u and me  
 C线11-04，9S在YoRHa部队受到病毒感染时不解救2B直接离开  
-- [ ] corru[P]tion  
+- [x] corru[P]tion  
 C线11-05，2B在到达森林古堡入口遇到A2之前病毒感染率达到100%  
 - [ ] [Q]uestionable actions  
 C线11-07，9S不去地图所标示的地点寻找2B直接反方向离开  
@@ -44,11 +44,11 @@ C线14-05，A2在废弃工厂中当着帕斯卡的面杀掉孩子
 C线17-01，9S在Devola和Popola姐妹前来支援时，不开门直接逃走  
 - [ ] fa[T]al error  
 2B/9S/2A把自己的系统芯片移除  
-- [ ] deb[U]nked  
+- [x] deb[U]nked  
 任意时间，2B或9S在地堡内自爆  
 - [ ] reckless bra[V]ery  
 C线17-01，9S在Devola和Popola姐妹前来支援时，直到两姐妹死亡都没有成功开门  
-- [ ] broken [W]ings  
+- [x] broken [W]ings  
 A线序章，驾驶飞行装甲进行弹幕游戏时死亡  
 - [ ] time to rela[X]  
 C线11-06，第一次操作A2时直接离开  
