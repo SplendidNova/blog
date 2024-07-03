@@ -1,6 +1,6 @@
 # NieR:Automata
 愿人类荣光永存！  
-Glory to Mankind.  
+Glory to Mankind!  
 人類に栄光あね！
 
 ### 所有结局
