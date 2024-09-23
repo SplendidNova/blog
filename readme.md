@@ -1,5 +1,7 @@
 Just some records.
 
+**注意：该repo所有内容已迁移至本人blog（[SplendidNova.github.io](https://github.com/SplendidNova/SplendidNova.github.io)），这里的内容可能已经过时，请前往我的blog查看。**
+
 ## 索引
 ### 记录
 #### ユイザキカズヤ
