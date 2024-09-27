@@ -1,7 +1,7 @@
 # NieR:Automata
 愿人类荣光永存！  
 Glory to Mankind!  
-人類に栄光あね！
+人類に栄光あれ！
 
 ### 所有结局
 - [x] flowers for m[A]chines  
